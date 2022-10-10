@@ -1,0 +1,7 @@
+print("hello world")
+print("My name is Muhammad Arslan")
+print('Single Qoute')
+print("Double Qoute")
+print('''Tripple qoute''')
+print("what's up")
+print('Hello, My name is "Arslan Shabbir"')
